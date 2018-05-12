@@ -1,10 +1,16 @@
 _repo: Briefe-aus-Frankfurt-und-Paris-1848-1849-12_50870
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50870-h/images/cover.jpg
 creator:
   author:
     agent_name: Raumer, Friedrich von
     gutenberg_agent_id: '46117'
     url: http://www.gutenberg.org/2009/agents/46117
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50870#Briefe-aus-Frankfurt-und-Paris-1848-1849-12
 gutenberg_issued: '2016-01-07'
 gutenberg_type: Text
 identifiers:
